@@ -14,8 +14,8 @@ This project demonstrates feature engineering techniques using a synthetic datas
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yorizpra/feature-engineering.git
-    cd feature-engineering
+    git clone https://github.com/yorizpra/data-science_machine-learning_feature-engineering.git
+    cd data-science_machine-learning_feature-engineering
     ```
 
 2. Create a virtual environment and activate it:
