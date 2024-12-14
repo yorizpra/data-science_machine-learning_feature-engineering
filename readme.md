@@ -14,7 +14,7 @@ This project demonstrates feature engineering techniques using a synthetic datas
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/feature-engineering.git
+    git clone https://github.com/yorizpra/feature-engineering.git
     cd feature-engineering
     ```
 
